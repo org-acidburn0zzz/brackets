@@ -2,7 +2,7 @@
   "name": "brackets-javascript-code-hints",
   "dependencies": {
     "acorn": "3.3.0",
-    "tern": "0.20.0"
+    "tern": "0.24.3"
   },
   "scripts": {
     "postinstall": "node ./fix-acorn"
